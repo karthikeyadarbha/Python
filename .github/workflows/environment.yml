@@ -1,0 +1,4 @@
+name: numpy-env
+dependencies:
+- python=3
+- numpy
