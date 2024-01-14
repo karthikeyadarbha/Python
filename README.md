@@ -1,5 +1,5 @@
 # Python
-This is repo encompass with Python codes covering various technical directions
+This repo encompasses Python codes covering various technical directions
 including but not limited to 
   1.) Hands-on project activities implemented part of any MOOC courses
   2.) Any data analysis project implementations part of visulizations
